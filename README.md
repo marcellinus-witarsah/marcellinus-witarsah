@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m currently in my last year and finishing my Final Project as a requirement for getting my bachelor's degree in Informatics. 
-I'm curious and interested learning in Data Science.
+I'm always curious and interested learning in Data Science for solving real world problems.
 
 <p align="left">
 <a href="https://github.com/marcellinus-witarsah">
