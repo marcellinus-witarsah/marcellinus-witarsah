@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I’m currently in my last year and finishing my Final Project as a requirement for getting my bachelor's degree in Informatics. 
-I'm always curious and interested learning in Data Science for solving real world problems.
+Data Scientist with 8+ months of experience. Known for quick learning and exceptional adaptability. Specialized in data analysis and the development of cutting-edge machine learning models, delivering intelligent and inventive solutions
 
 <p align="left">
 <a href="https://github.com/marcellinus-witarsah">
